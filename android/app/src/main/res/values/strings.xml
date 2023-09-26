@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">events</string>
+    <string name="title_activity_main">events</string>
+    <string name="package_name">com.events</string>
+    <string name="custom_url_scheme">com.events</string>
+    <string name="server_client_id">964561140337-l0ogp9jqr6tqjgnv90hp3hn6cia9qo73.apps.googleusercontent.com</string>
+</resources>

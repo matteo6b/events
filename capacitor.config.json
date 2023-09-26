@@ -1,0 +1,22 @@
+{
+  "appId": "com.events",
+  "appName": "events",
+  "webDir": "dist",
+  "server": {
+    "cleartext": true
+  },
+  "bundledWebRuntime": false,
+  "plugins": {
+    "CapacitorCookies": {
+      "enabled": true
+    },
+    "GoogleAuth": {
+      "scopes": [
+        "profile",
+        "email"
+      ],
+      "serverClientId": "964561140337-l0ogp9jqr6tqjgnv90hp3hn6cia9qo73.apps.googleusercontent.com",
+      "forceCodeForRefreshToken": true
+    }
+  }
+}

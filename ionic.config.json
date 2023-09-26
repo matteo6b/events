@@ -1,0 +1,8 @@
+{
+
+  "name": "events",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
